@@ -1,1 +1,12 @@
-HTML/landscape_video.mp4
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Videos
+*.mp4
+
+# Logs
+*.log
